@@ -1,0 +1,27 @@
+#pip install -r requirements.txt
+pyserial
+pyodbc
+logging
+pymcprotocol
+requests
+pyyaml
+sockets
+xlsxwriter
+websocket
+paho-mqtt
+pythonnet
+numpy
+bcrypt 
+cryptography
+pytz
+jsons
+keyboard
+pygetwindow
+pyautogui
+pillow
+pywin32
+psutil
+opencv-python
+kivy
+kivymd
+pyModbusTCP
